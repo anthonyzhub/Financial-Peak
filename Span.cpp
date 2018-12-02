@@ -12,7 +12,7 @@ void Span::textReader()
 {
     // Declare variables to hold line and open files
     string line;
-    ifstream inFile ("/Users/anthonyzamora/Documents/C++/Span Project/Span Project/SCHB.txt");
+    ifstream inFile ("AAPL.txt"); // <- Add directory here.
     
     // Check if file can be opened
     if (inFile.is_open())
