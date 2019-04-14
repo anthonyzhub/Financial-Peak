@@ -1,3 +1,5 @@
+# READ ME
+
 Hi,
 
 This academic project was asssigned to me as a Junior student in "Advanced Data Structures." This C++ program can analyze and compute the peak of a financial product based on its imported historic data. Once the data has been analyzed and interpreted, a message will be printed with the data and price of the product's peak. Please, feel free to use this as a reference.
